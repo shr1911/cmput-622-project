@@ -47,7 +47,7 @@ cmput-622-project folder :
 
 
 ## Acknowledgment and Resources
-- We would like to knowledge Prof. Nidhi Hegde for her guidance thrughout the coourse of CMPUT-622.
+- We would like to thank Prof. Nidhi Hegde for her guidance thrughout the coourse of CMPUT-622.
 - Gaussian Noise - https://www.kaggle.com/code/chanduanilkumar/adding-and-removing-image-noise-in-python/notebook
 - Salt and Pepper Noise - https://www.geeksforgeeks.org/add-a-salt-and-pepper-noise-to-an-image-with-python/
 - Base paper 1 - Vitaly Feldman. Does learning require memorization? a short tale about a long tail, 2019. URL https://arxiv.org/abs/1906.05271.
