@@ -33,7 +33,7 @@ cmput-622-project folder :
     - `mnist_with_gaussian_noise`
     - `mnist_with_salt_and_pepper`
     - Files for CIFAR10 dataset
-- `demo_images`: 
+- `demo_images`
 - `report`: cotnains final paper
 
 ## Execution Instructions to reproduce the result
