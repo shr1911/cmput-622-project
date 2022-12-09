@@ -1,4 +1,4 @@
-# Cmput-622-project - Towards Discovering Long Tail via Influence Estimation by Adding Noise
+# CMPUT-622-project - Towards Discovering Long Tail via Influence Estimation by Adding Noise
 
 ## Team
 |Student name| CCID |
