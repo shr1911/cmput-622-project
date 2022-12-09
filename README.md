@@ -24,6 +24,9 @@ This file contains
 - [ ] Acknowledgement for all resources consulted (discussions, texts, urls, etc.) while working on the project. 
 
 ## Summary of Project
+Deep learning algorithms are notorious for their propensity to very closely match the training data, frequently fitting even outliers and incorrectly labelled data points. Such fitting necessitates learning labels from training data, a phenomena that has generated a lot of study attention but has not yet been adequately explained. A theoretical explanation for this phenomena is put out by Feldman in a recent article Feldman [2019] based on the fusion of two discoveries. First off, naturally occurring image and data distributions are (informally) known to be long-tailed, meaning they contain a sizeable portion of uncommon and out-of-the-ordinary cases. Second, when the data distribution is long-tailed, such memorising is required in a straightforward theoretical model to achieve close to the ideal generalisation error. The direct empirical support for this argument was provided in Feldman and Zhang [2020a].
+
+In this study, we develop experiments to put this theory’s main concepts to the test. The studies call for estimation of memorization values for training instances as well as the influence of each training example on accuracy at each test example after adding the Gaussian noise and Salt and Pepper noise. It would be computationally impossible to estimate these values directly, but we demonstrate that the influence and memorization values can be estimated considerably more effectively using closely similar subsampled data. Our tests show that memorising has a considerable impact on generalisation across a range of accepted metrics. They also offer quantitative and visually striking proof in support of the notion advanced in Feldman [2019]
 
 ## Structure
 cmput-622-project folder :
