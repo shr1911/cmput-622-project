@@ -32,7 +32,7 @@ cmput-622-project folder :
     - `mnist-without-noise`
     - `mnist_with_gaussian_noise`
     - `mnist_with_salt_and_pepper`
-    - Files for CIFAR10 run
+    - Files for CIFAR10 dataset
 - `demo_images`: 
 - `report`: cotnains final paper
 
